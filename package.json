@@ -1,0 +1,24 @@
+{
+  "name": "sr-api",
+  "version": "1.0.0",
+  "description": "Shadowrun Anarchy character generation RESTful API",
+  "main": "server.js",
+  "scripts": {
+    "test": "jasmine",
+    "jasmine": "jasmine",
+    "oauth2-mock-server": "oauth2-mock-server"
+  },
+  "author": "Chris Dalrymple",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "lodash": "^4.17.11",
+    "nano": "^6.4.3"
+  },
+  "devDependencies": {
+    "jasmine": "^3.1.0",
+    "nyc": "^11.4.1",
+    "oauth2-mock-server": "^1.1.0"
+  }
+}
