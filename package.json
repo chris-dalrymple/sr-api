@@ -11,14 +11,14 @@
   "author": "Chris Dalrymple",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
     "lodash": "^4.17.11",
-    "nano": "^6.4.3"
+    "nano": "^6.4.4"
   },
   "devDependencies": {
-    "jasmine": "^3.1.0",
-    "nyc": "^11.4.1",
+    "jasmine": "^3.2.0",
+    "nyc": "^11.9.0",
     "oauth2-mock-server": "^1.1.0"
   }
 }
